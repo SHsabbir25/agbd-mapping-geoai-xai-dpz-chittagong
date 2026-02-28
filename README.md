@@ -95,7 +95,7 @@ git clone https://github.com/SHsabbir25/agbd-mapping-geoai-xai-dpz-chittagong.gi
 cd agbd-mapping-geoai-xai-dpz-chittagong
 
 # Install dependencies
-pip install rasterio earthpy geopandas scikit-learn shap pandas numpy matplotlib seaborn joblib
+!pip install rasterio earthpy geopandas scikit-learn shap pandas numpy matplotlib seaborn joblib
 ```
 
 Open the notebook in **Google Colab** and mount your Google Drive with the required datasets.
