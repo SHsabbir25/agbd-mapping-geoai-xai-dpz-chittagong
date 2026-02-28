@@ -81,7 +81,7 @@ By integrating XAI, planners can understand not only *where* biomass is high or 
 ```
 agbd-mapping-geoai-xai-dpz-chittagong/
 │
-├── Spatial_Machine_Learning_for_Regression_Analysis_With_XAI.ipynb
+├── Code/Spatial_Machine_Learning_for_Regression_Analysis_With_XAI.ipynb
 ├── README.md
 └── requirements.txt
 ```
